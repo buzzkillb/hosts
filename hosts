@@ -1,0 +1,7 @@
+# Blocking spammy dm links
+
+127.0.0.1  localhost
+::1  localhost
+
+# [Discord Giveaways]
+127.0.0.1 aerochange.com
